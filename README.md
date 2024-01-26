@@ -42,7 +42,7 @@ These EDA steps provided a comprehensive understanding of the dataset's characte
 ### Model Building and Evaluation
 In this phase, we built and evaluated a range of machine learning models to predict house prices. The selection of models was based on their ability to handle regression tasks and their varying approaches to learning from data. The models included:
 
-- Linear Models (Linear Regression, Ridge, Lasso, Elastic Net): These models provide a baseline for performance and are effective for understanding linear relationships.
+- Linear Models (Linear Regression, Ridge, Lasso): These models provide a baseline for performance and are effective for understanding linear relationships.
 - Tree-Based Models (Decision Tree, Random Forest, Gradient Boosting): Known for handling non-linearity and feature interactions effectively.
 - Support Vector Regressor (SVR): Useful for capturing complex relationships in data.
 - K-Nearest Neighbors: A simple, distance-based approach to regression.
@@ -61,7 +61,7 @@ Key insights from the project include the effectiveness of ensemble methods like
 
 ## Technologies Used
 - Python
-- Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, [any other libraries used]
+- Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn.
 
 ## How to Run the Project
 This project is designed to be run in Google Colab, a free, cloud-based Jupyter notebook environment. Follow these steps to set up and run the project:
